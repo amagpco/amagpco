@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @amagpco
+- 👀 I’m interested in Python / Django / Fastapi
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on open-source project
+- 📫 How to reach me - amagp.co@gmail.com
